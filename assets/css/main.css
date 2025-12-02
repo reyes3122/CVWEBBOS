@@ -1774,6 +1774,7 @@ section,
   transform: rotate(5deg) scale(1.05);
 }
 
+
 .services .service-item:hover .read-more {
   color: var(--accent-color);
 }
